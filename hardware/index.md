@@ -100,14 +100,15 @@ to an IGC FLARM and can read valid IGC files from it.
 [SoarTronic's bluetooth adapter](http://www.soartronic.net/) is a
 cheap way to connect a FLARM.
 
-## LXNAV V7 / Nano
+## LXNAV V7 / Nano / Nano³
 
-Both [V7](http://www.lxnav.com/products/v7-v7d.html) and
-[Nano](http://www.lxnav.com/products/nano.html) are both fully
-supported by XCSoar, thanks to LXNAV's hardware donations.  LXNAV
-sells
+The [V7](http://www.lxnav.com/products/v7-v7d.html),
+[Nano](http://www.lxnav.com/products/nano.html) and
+[Nano³](http://www.lxnav.com/products/nano3.html)
+are fully supported by XCSoar, thanks to LXNAV's hardware donations.
+LXNAV sells
 [a Bluetooth adapter for the V7](http://www.lxnav.com/accessories/v7-bluetooth.html),
-and the Nano has built-in Bluetooth.
+and the Nano/Nano³ both have built-in Bluetooth.
 
 ## Cambridge CAI302
 
