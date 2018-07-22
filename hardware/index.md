@@ -61,10 +61,10 @@ Examples for Bluetooth adapters:
 
 Examples for IOIO adapters:
 
-- [DroidSoar](http://www.tvlnet.de/): a complete IOIO adapter with 4
-  serial ports and 2 pressure sensors for 169 €
-- [Glidertools Androport](http://www.glidertools.com/products/androport/):
-  a complete IOIO adapter with 2 serial ports for 63.50 €
+- [DroidSoar](https://web.archive.org/web/20150312134222/http://www.tvlnet.de:80/): a complete IOIO adapter with 4
+  serial ports and 2 pressure sensors for 169 € (obsolete)
+- [Glidertools Androport](https://web.archive.org/web/20160318075225/http://www.glidertools.com/):
+  a complete IOIO adapter with 2 serial ports for 63.50 € (obsolete)
 - [SoarTronic](http://www.soartronic.net/) has a DIY kit for 26 €
   (without the actual IOIO board)
 - you can [build your own](https://github.com/ytai/ioio/wiki)
